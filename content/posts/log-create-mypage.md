@@ -1,5 +1,5 @@
 ---
-title: "Log Create Mypage"
+title: "Creating my webpage with Hugo & Publishing it with Github Pages. "
 date: 2023-04-05T23:41:19+09:00
 draft: false
 ---
@@ -21,3 +21,13 @@ draft: false
     ```yml
     theme: "PaperMod"
     ```
+4. create workflow file .github/workflows/gh-pages.yml ([Ref](https://github.com/peaceiris/actions-gh-pages))
+
+5. Push local repo to remote repo at github
+    ```bash
+    git remote add origin https://github.com/(MyGitHubAccount)/(RepoName).git
+    git branch -M main
+    git push -u origin main
+    ```
+6. The homepage will be buit & deployed with GitHub Actions. The built static webpage files will appear in gh-pages branch.
+7. Click setting tab and move to Pages, then change the branch from which the github pages is built (`main` to `gh-pages`). 
