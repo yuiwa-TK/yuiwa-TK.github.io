@@ -1,6 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on</title><link>/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 05 Apr 2023 23:41:19 +0900</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating my webpage with Hugo &amp; Publishing it with Github Pages.</title><link>/posts/log-create-mypage/</link><pubDate>Wed, 05 Apr 2023 23:41:19 +0900</pubDate><guid>/posts/log-create-mypage/</guid><description>From downloading Hugo to deploying to github pages. Install hugo with brew.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Yuta Iwatani</title>
+    <link>https://yuiwa-TK.github.io/posts/</link>
+    <description>Recent content in Posts on Yuta Iwatani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 Apr 2023 23:41:19 +0900</lastBuildDate><atom:link href="https://yuiwa-TK.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating my webpage with Hugo &amp; Publishing it with Github Pages. </title>
+      <link>https://yuiwa-TK.github.io/posts/log-create-mypage/</link>
+      <pubDate>Wed, 05 Apr 2023 23:41:19 +0900</pubDate>
+      
+      <guid>https://yuiwa-TK.github.io/posts/log-create-mypage/</guid>
+      <description>From downloading Hugo to deploying to github pages. Install hugo with brew.
 brew install hugo Select and download the hugo theme PaperMod.
 hugo new site (myreponame).github.io cd (myreponame).github.io git init. # init git repo. create config.yml
 PaperMod recommends using yml rather than toml. Add this line to config.yml theme: &amp;#34;PaperMod&amp;#34; create workflow file .github/workflows/gh-pages.yml (Ref)
 Push local repo to remote repo at github
-git remote add origin https://github.com/(MyGitHubAccount)/(RepoName).git git branch -M main git push -u origin main The homepage will be buit &amp;amp; deployed with GitHub Actions.</description></item></channel></rss>
+git remote add origin https://github.com/(MyGitHubAccount)/(RepoName).git git branch -M main git push -u origin main The homepage will be buit &amp;amp; deployed with GitHub Actions.</description>
+    </item>
+    
+  </channel>
+</rss>
