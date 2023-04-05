@@ -1,1 +1,9 @@
 theme: "PaperMod"
+
+params:
+    homeInfoParams:
+        Title: Hello ??
+        Content: Can be Info, links, about...
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: auto # to switch between dark or light according to browser theme
