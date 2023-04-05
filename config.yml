@@ -1,4 +1,12 @@
 theme: "PaperMod"
+baseURL: "https://yuiwa-TK.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Yuta Iwatani
+paginate: 5
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
 
 params:
     homeInfoParams:
@@ -7,3 +15,11 @@ params:
     # defaultTheme: light
     # defaultTheme: dark
     defaultTheme: auto # to switch between dark or light according to browser theme
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/yuiwa-TK"
+        - name: googlescholar
+          url: "https://scholar.google.co.jp/citations?hl=ja&user=PkjX1xAAAAAJ"
+        - name: twitter
+          url: "https://twitter.com/WantanCFD"
