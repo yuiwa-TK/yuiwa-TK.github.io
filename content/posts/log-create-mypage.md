@@ -5,23 +5,23 @@ draft: false
 ---
 
 ## From downloading Hugo to deploying to github pages.
-1. Install hugo with brew.
-    ```bash
+1. Install hugo using homebrew.
+    ```zsh
     brew install hugo
     ```
-2. Select and download the hugo theme PaperMod.
-    ```bash
+2. Download hugo theme "[PaperMod](https://github.com/adityatelange/hugo-PaperMod)".
+    ```zsh
     hugo new site (myreponame).github.io
     cd (myreponame).github.io
     git init. # init git repo.
     ```
-3. create config.yml
+3. Create config.yml
     - PaperMod recommends using yml rather than toml.
     - Add this line to config.yml
     ```yml
     theme: "PaperMod"
     ```
-4. create workflow file .github/workflows/gh-pages.yml ([Ref](https://github.com/peaceiris/actions-gh-pages))
+4. Create workflow file .github/workflows/gh-pages.yml ([Ref](https://github.com/peaceiris/actions-gh-pages))
 
 5. Push local repo to remote repo at github
     ```bash
