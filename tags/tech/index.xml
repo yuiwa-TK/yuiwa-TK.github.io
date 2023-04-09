@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>normal on Yuta Iwatani</title>
-    <link>https://yuiwa-TK.github.io/tags/normal/</link>
-    <description>Recent content in normal on Yuta Iwatani</description>
+    <title>tech on Yuta Iwatani</title>
+    <link>https://yuiwa-TK.github.io/tags/tech/</link>
+    <description>Recent content in tech on Yuta Iwatani</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 23:41:19 +0900</lastBuildDate><atom:link href="https://yuiwa-TK.github.io/tags/normal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2023 23:41:19 +0900</lastBuildDate><atom:link href="https://yuiwa-TK.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a webpage with Hugo &amp; Publishing it with Github Pages. </title>
       <link>https://yuiwa-TK.github.io/posts/log-create-mypage/</link>
