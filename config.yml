@@ -7,14 +7,48 @@ minify:
     disableXML: true
     # minifyOutput: true
 
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+                  category: categories
+                  tag: tags
+                  series: series
+        menu:
+            main:
+                - name: Research
+                  url : research/
+                  weight: 10
+                - name: CV
+                  url : cv/
+                  weight: 11
+                - name: Study Notes
+                  url : studynotes/
+                  weight: 12
+                # - name: Search
+                #   url: search/
+                #   weight: 10
+                - name: Archives
+                  url: archives
+                  weight: 20
+                - name: Tags
+                  url: tags/
+                  weight: 30
+    jp:
+        languageName: "Japanese"
+        weight: 2
+        taxonomies:
 
 params:
     homeInfoParams:
-        Title: Hello ??
-        Content: Can be Info, links, about...
-    # defaultTheme: light
-    # defaultTheme: dark
-    defaultTheme: auto # to switch between dark or light according to browser theme
+        Title: Welcome 🛩 🌊
+        Content: Yuta Iwatani is a PhD student at [Tohoku University](https://www.klab.mech.tohoku.ac.jp/index_jpn.html) in Japan, specializing in aerospace engineering.
+                 I am also honored to hold the JSPS Research Fellowship for Young Scientists (DC1).
+                 My research interests lie in the field of Computational Fluid Dynamics (CFD) and Data Science for CFD data, with a focus on compressible flows. 
+                 Please visit [Research]() to dive into my current and past research projects.
+                 Please do not hesitate to contact me if you have any questions on my codes and my study notes. 
+    defaultTheme: light #dark / auto
 
     socialIcons:
         - name: github

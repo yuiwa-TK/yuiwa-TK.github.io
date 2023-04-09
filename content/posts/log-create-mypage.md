@@ -1,7 +1,8 @@
 ---
-title: "Creating my webpage with Hugo & Publishing it with Github Pages. "
+title: "Creating a webpage with Hugo & Publishing it with Github Pages. "
 date: 2023-04-05T23:41:19+09:00
 draft: false
+tags: ["normal"]
 ---
 
 ## From downloading Hugo to deploying to github pages.
