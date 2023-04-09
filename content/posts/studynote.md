@@ -3,5 +3,7 @@ title: "Study Notes"
 # layout: ""
 url: "studynotes/"
 summary: 
-draft: true
+draft: false
 ---
+
+In preparation. 😪

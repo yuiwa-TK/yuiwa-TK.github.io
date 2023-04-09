@@ -3,7 +3,7 @@ title: "Yuta Iwatani's C.V."
 # layout: "archives"
 url: "cv"
 # summary: archives
-draft: true
+draft: false
 ---
 
 ## Yuta Iwatani
