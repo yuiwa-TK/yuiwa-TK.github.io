@@ -23,31 +23,31 @@ languages:
                 - name: CV
                   url : cv/
                   weight: 11
-                - name: Study Notes
+                - name: Study Note
                   url : studynotes/
                   weight: 12
                 # - name: Search
                 #   url: search/
                 #   weight: 10
-                - name: Archives
+                - name: Archive
                   url: archives
                   weight: 20
-                - name: Tags
+                - name: Tag
                   url: tags/
                   weight: 30
-    jp:
-        languageName: "Japanese"
-        weight: 2
-        taxonomies:
+    # jp:
+    #     languageName: "Japanese"
+    #     weight: 2
+    #     taxonomies:
 
 params:
     homeInfoParams:
-        Title: Welcome 🛩 🌊
+        Title: Welcome 🛩 🌊 ![Thumbnail](./thumbnail.jpeg)
         Content: Yuta Iwatani is a PhD student at [Tohoku University](https://www.klab.mech.tohoku.ac.jp/index_jpn.html) in Japan, specializing in aerospace engineering.
-                 I am also honored to hold the JSPS Research Fellowship for Young Scientists (DC1).
-                 My research interests lie in the field of Computational Fluid Dynamics (CFD) and Data Science for CFD data, with a focus on compressible flows. 
-                 Please visit [Research]() to dive into my current and past research projects.
-                 Please do not hesitate to contact me if you have any questions on my codes and my study notes. 
+                 He is also honored to hold the JSPS Research Fellowship for Young Scientists (DC1).
+                 His research interests lie in the field of Computational Fluid Dynamics (CFD) and Data Science for CFD data, with a focus on compressible flows. 
+                 Please visit [Research]() to know in more detail about his current and past research projects.
+                 Do not hesitate to contact me if you have any questions on my codes and my study notes. 
     defaultTheme: light #dark / auto
 
     socialIcons:
@@ -57,3 +57,11 @@ params:
           url: "https://scholar.google.co.jp/citations?hl=ja&user=PkjX1xAAAAAJ"
         - name: twitter
           url: "https://twitter.com/WantanCFD"
+
+
+# for search page
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

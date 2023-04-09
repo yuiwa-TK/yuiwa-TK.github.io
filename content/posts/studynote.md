@@ -1,6 +1,6 @@
 ---
 title: "Study Notes"
-# layout: ""
+layout: "archive"
 url: "studynotes/"
 summary: 
 draft: false

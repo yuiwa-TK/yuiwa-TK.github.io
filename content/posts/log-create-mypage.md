@@ -2,7 +2,14 @@
 title: "Creating a webpage with Hugo & Publishing it with Github Pages. "
 date: 2023-04-05T23:41:19+09:00
 draft: false
-tags: ["normal"]
+tags: ["tech"]
+cover:
+  image: "post-mypage.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+#   alt: "<alt text>"
+#   caption: "<text>"
+  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## From downloading Hugo to deploying to github pages.
