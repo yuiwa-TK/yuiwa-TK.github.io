@@ -21,15 +21,6 @@ git remote add origin https://github.com/(MyGitHubAccount)/(RepoName).git git br
     </item>
     
     
-    <item>
-      <title>Research Projects</title>
-      <link>https://yuiwa-TK.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuiwa-TK.github.io/research/</guid>
-      <description>In preparation. 😪</description>
-    </item>
-    
     
     <item>
       <title>Study Notes</title>
@@ -46,7 +37,7 @@ git remote add origin https://github.com/(MyGitHubAccount)/(RepoName).git git br
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yuiwa-TK.github.io/cv/</guid>
-      <description>Yuta Iwatani Master of Engineering (Aerospace), 2023 JSPS Research Fellowship for Young Scientists, DC1, 2023~ Education M.S. (Eng.) Tohoku University, Japan 2023 B.S. (Eng.) Tohoku University, Japan 2021 Awards 2021 第35回数値流体力学シンポジウム 若手優秀講演表彰 [link]</description>
+      <description>Yuta Iwatani Master of Engineering, 2023 JSPS Research Fellowship for Young Scientists, DC1, 2023~ Education M.S. (Eng.) Tohoku University, Japan 2023 (supervisor: Professor Soshi Kawai) B.S. (Eng.) Tohoku University, Japan 2021 (supervisor: Professor Soshi Kawai) Awards 2021 第35回数値流体力学シンポジウム 若手優秀講演表彰 [link]</description>
     </item>
     
   </channel>
