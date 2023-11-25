@@ -18,7 +18,7 @@ languages:
         menu:
             main:
                 - name: Research
-                  url : research/
+                  url : research2/
                   weight: 10
                 - name: CV
                   url : cv/
@@ -39,15 +39,29 @@ languages:
     #     languageName: "Japanese"
     #     weight: 2
     #     taxonomies:
+    #               category: categories
+    #               tag: tags
+    #               series: series
+    #     menu:
+    #       main:
+    #         - name: Research
+    #           url : research2/
+    #           weight: 10
+    #         - name: CV
+    #           url : cv/
+    #           weight: 11
+    #         - name: Study Note
+    #           url : studynotes/
+    #           weight: 12
 
 params:
     homeInfoParams:
-        Title: Welcome 🛩 🌊 ![Thumbnail](./thumbnail.jpeg)
-        Content: Yuta Iwatani is a PhD student at [Tohoku University](https://www.klab.mech.tohoku.ac.jp/index_jpn.html) in Japan, specializing in aerospace engineering.
-                 He is also honored to hold the JSPS Research Fellowship for Young Scientists (DC1).
-                 His research interests lie in the field of Computational Fluid Dynamics (CFD) and Data Science for CFD data, with a focus on compressible flows. 
-                 Please visit [Research]() to know in more detail about his current and past research projects.
-                 Do not hesitate to contact me if you have any questions on my codes and my study notes. 
+        Title: Welcome 
+        Content: Yuta Iwatani is a first-year PhD student affiliated with the [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index_jpn.html) at Tohoku University in Japan. 
+                 He is honored to hold the JSPS (Japan Society for the Promotion of Science) Research Fellowship for Young Scientists (DC1). 
+                 His research focuses on compressible fluid dynamics, utilizing computational fluid dynamics with High-Performance Computing (HPC), and employing modal analyses based on applied mathematics.
+                 {{< figure align=center src="./Re300.png" >}} 
+                 Contact **yuta.iwatani(at)dc.tohoku.ac.jp** 
     defaultTheme: light #dark / auto
 
     socialIcons:
@@ -55,8 +69,8 @@ params:
           url: "https://github.com/yuiwa-TK"
         - name: googlescholar
           url: "https://scholar.google.co.jp/citations?hl=ja&user=PkjX1xAAAAAJ"
-        - name: twitter
-          url: "https://twitter.com/WantanCFD"
+        # - name: twitter
+        #   url: "https://twitter.com/WantanCFD"
 
 
 # for search page
