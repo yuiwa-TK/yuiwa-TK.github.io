@@ -1,6 +1,6 @@
 ---
 # title: "Research Projects"
-url: "/research2/"
+url: "/research_project/"
 summary: 
 draft: false
 ---
@@ -15,7 +15,7 @@ This study aims in elucidating the wall heating/cooling effects on the laminar-t
 {{<accordion title="Publications & conference talks">}}
 ### Publication
 n/a
-### Conference talk
+### Conference talks
 1. **Y. Iwatani**, H. Asada, S. Kawai, "Wall temperature effects on laminar to turbulent transition in transonic boundary layer", [JSFM Annual Meeting 2023](https://www2.nagare.or.jp/nenkai2023/), Tokyo, Japan, Sep, 2023
 2. **Y. Iwatani**, H. Asada, S. Kawai, "DNS study of wall temperature effects on the H-type transition in a transonic boundary layer", [76th Annual Meeting of the Division of Fluid Dynamics](https://www.2023apsdfd.org/), Washington, DC, USA, Nov, 2023
 {{</accordion>}}
@@ -40,3 +40,16 @@ We have identified the self-sustaining mechanisms of transonic airfoil buffet ph
 
 {{< figure align=center src="./buffet.png" height=300pt >}}
 <!-- We identify the self-sustaining mechanisms of transonic airfoil buffet phenomena with the aid of the resolvent analysis.  -->
+
+
+{{<accordion title="Publications & conference talks">}}
+### Publications
+1. Y. Iwatani, H. Asada, C.-A. Yeh, K. Taira, and S. Kawai, ["Identifying the self-sustaining mechanisms of transonic airfoil buffet with resolvent analysis,"](https://arc.aiaa.org/doi/10.2514/1.J062294) AIAA Journal, 61 (6), 2400-2411, (2023).
+2. Y. Iwatani, H. Asada, and S. Kawai, "POD, DMD, and resolvent analysis of transonic airfoil buffet", AIAA SCITECH 2022 Forum, 2022-0461, (2022)
+### Conference talks
+1. **Y. Iwatani**, H. Asada, C.-A. Yeh, K. Taira, and S. Kawai,  "Resolvent analysis of the self-sustained shock oscillations in transonic airfoil buffet", [75th Annual Meeting of the Division of Fluid Dynamics](https://www.2022apsdfd.org/), Indianapolis, Indiana, USA, Nov, 2022
+2. **Y. Iwatani**, H. Asada, and S. Kawai, "POD, DMD, and resolvent analysis of transonic airfoil buffet", AIAA SciTech, online, Jan, 2022
+3. **Y. Iwatani**, H. Asada, S. Kawai, "DMD and resolvent analysis of transonic airfoil buffet", 35th CFD Symposium, online (Japan), Dec, 2021
+4. **Y. Iwatani**, H. Asada, S. Kawai, "Resolvent anlaysis of transonic airfoil buffet", [53th Fluid Dynamics Conference of JSASS and 41st the Aerospace
+Numerical Simulation Symposium of JAXA](https://branch.jsass.or.jp/aerocom/ryu/ryu53/)  , online (Japan), Jun, 2021
+{{</accordion>}}
