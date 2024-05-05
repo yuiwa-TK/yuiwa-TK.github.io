@@ -16,8 +16,9 @@ This study aims in elucidating the wall heating/cooling effects on the laminar-t
 ### Publication
 n/a
 ### Conference talks
-1. **Y. Iwatani**, H. Asada, S. Kawai, "Wall temperature effects on laminar to turbulent transition in transonic boundary layer", [JSFM Annual Meeting 2023](https://www2.nagare.or.jp/nenkai2023/), Tokyo, Japan, Sep, 2023
+1. **Y. Iwatani**, H. Asada, S. Kawai, "Wall temperature effects on laminar to turbulent transition in transonic boundary layer  *(in Japanese)*", [JSFM Annual Meeting 2023](https://www2.nagare.or.jp/nenkai2023/), Tokyo, Japan, Sep, 2023
 2. **Y. Iwatani**, H. Asada, S. Kawai, "DNS study of wall temperature effects on the H-type transition in a transonic boundary layer", [76th Annual Meeting of the Division of Fluid Dynamics](https://www.2023apsdfd.org/), Washington, DC, USA, Nov, 2023
+3. **Y. Iwatani**, H. Asada, S. Kawai, "DNS study of turbulent transition of transonic boundary layer over a heated/cooled wall *(in Japanese)*", [37th CFD symposium](https://www2.nagare.or.jp/cfd/cfd37/), Nagoya, Japan, Dec, 2023
 {{</accordion>}}
 
 ---
