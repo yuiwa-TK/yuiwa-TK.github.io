@@ -21,7 +21,7 @@ languages:
                   url : research_project/
                   weight: 10
                 - name: Publications
-                  url: Publications/
+                  url: publications/
                   weight: 1
                 - name: CV
                   url : cv/
