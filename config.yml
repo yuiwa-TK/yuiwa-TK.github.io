@@ -20,6 +20,9 @@ languages:
                 - name: Research
                   url : research_project/
                   weight: 10
+                - name: Publications
+                  url: Publications/
+                  weight: 1
                 - name: CV
                   url : cv/
                   weight: 11
@@ -57,9 +60,9 @@ languages:
 params:
     homeInfoParams:
         Title: Yuta Iwatani
-        Content: is a first-year PhD student affiliated with the [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index_jpn.html) at Tohoku University in Japan. 
-                 He is honored to hold the JSPS (Japan Society for the Promotion of Science) Research Fellowship for Young Scientists (DC1). 
-                 His research focuses on compressible fluid dynamics, utilizing computational fluid dynamics with High-Performance Computing (HPC), and employing modal analyses based on applied mathematics.
+        Content: I am a second-year PhD student affiliated with the [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index_jpn.html) at Tohoku University in Japan. 
+                 I am awarded by the [JSPS (Japan Society for the Promotion of Science) Research Fellowship for Young Scientists (DC1)](https://www.jsps.go.jp/english/e-pd/). 
+                 My current research interest is persuing the physics in the compressible flow dynamics with the aid of high-fidelity numerical simulation and modal analysis to provide the insights/tools for the design of aircraft and/or the effective way of flow control in engineering.
                  {{< figure align=center src="./Re300.png" >}} 
                  Contact **yuta.iwatani(at)dc.tohoku.ac.jp** 
     defaultTheme: light #dark / auto
