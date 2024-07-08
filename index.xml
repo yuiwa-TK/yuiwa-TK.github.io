@@ -21,6 +21,15 @@ git remote add origin https://github.com/(MyGitHubAccount)/(RepoName).git git br
     </item>
     
     
+    <item>
+      <title>Publications</title>
+      <link>https://yuiwa-TK.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuiwa-TK.github.io/publications/</guid>
+      <description>Publications 2023 Y. Iwatani, H. Asada, C.-A. Yeh, K. Taira, and S. Kawai, &amp;ldquo;Identifying the self-sustaining mechanisms of transonic airfoil buffet with resolvent analysis,&amp;rdquo; AIAA Journal, 61 (6), 2400-2411, (2023). 2022 Y. Iwatani, H. Asada, and S. Kawai, &amp;ldquo;POD, DMD, and resolvent analysis of transonic airfoil buffet&amp;rdquo;, AIAA SCITECH 2022 Forum, 2022-0461, (2022) Conference talks 2024 Y. Iwatani, H. Asada, S. Kawai, &amp;ldquo;Laminar-to-turbulent transition of M=0.8 boundary layer over a heated/cooled flat plate&amp;rdquo;, Thirteenth International Symposium on Turbulence and Shear Flow Phenomena (TSFP13), Montréal, Canada, June 25-28, 2024 2023 Y.</description>
+    </item>
+    
     
     <item>
       <title>Study Notes</title>
