@@ -1,5 +1,5 @@
 ---
-title: "Lists of publications and conference talks"
+# title: "Lists of publications and conference talks"
 # layout: "archives"
 url: "/publications/"
 # summary: archives
