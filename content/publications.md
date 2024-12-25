@@ -17,6 +17,11 @@ draft: false
 ## Conference talks
 
 ### 2024
+- **Y. Iwatani** and S. Kawai, "Nonlinear flow dynamics and skin friction in heated and cooled transitional boundary layers"
+", [38th CFD symposium](https://www2.nagare.or.jp/cfd/cfd38/), Tokyo, Japan, Dec, 2024
+- C. ETO, S. Kawai, **Y. Iwatani** and S. Kawai, "Sensor-based wall modeled LES for predicting boundary layer transitionwith wall heating and cooling",
+[38th CFD symposium](https://www2.nagare.or.jp/cfd/cfd38/), Tokyo, Japan, Dec, 2024
+- **Y. Iwatani** and S. Kawai, "Bispectral analysis of nonlienar dynamics and its connection to skin friction in heated/cooled transonic boundary layer transition", [76th Annual Meeting of the Division of Fluid Dynamics](https://dfd-meeting.aps.org), Salt Lake City, UT, USA, Nov, 2024
 - **Y. Iwatani**, H. Asada, and S. Kawai, "Laminar-to-turbulent transition of M=0.8 boundary layer over a heated/cooled flat plate", [Thirteenth International Symposium on Turbulence and Shear Flow Phenomena (TSFP13)](https://www.tsfp13.org/index.html), Montréal, Canada, June 25-28, 2024
 - T. Miyake, **Y. Iwatani**, H. Asada, S. Kawai, "The effect of Reynolds stress terms in resolvent analysis of Karman vortex shedding phenomena around circular cylinder *(in Japanese)*", [59th JSME Tohoku Meeting](https://www.jsme-tohoku.net/thk59/), Sendai, Japan, March 15, 2024
 
