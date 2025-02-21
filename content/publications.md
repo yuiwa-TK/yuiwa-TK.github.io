@@ -8,11 +8,14 @@ draft: false
 
 ## Publications
 
+### In Review
+- **Y. Iwatani**, H. Asada, and S. Kawai, "Direct numerical simulation of subharmonic transition in pseudo-adiabatic, heated, and cooled boundary layers"
+
 ### 2023
-- Y. Iwatani, H. Asada, C.-A. Yeh, K. Taira, and S. Kawai, ["Identifying the self-sustaining mechanisms of transonic airfoil buffet with resolvent analysis,"](https://arc.aiaa.org/doi/10.2514/1.J062294) AIAA Journal, 61 (6), 2400-2411, (2023).
+- **Y. Iwatani**, H. Asada, C.-A. Yeh, K. Taira, and S. Kawai, ["Identifying the self-sustaining mechanisms of transonic airfoil buffet with resolvent analysis,"](https://arc.aiaa.org/doi/10.2514/1.J062294) AIAA Journal, 61 (6), 2400-2411, (2023).
 
 ### 2022
-- Y. Iwatani, H. Asada, and S. Kawai, "POD, DMD, and resolvent analysis of transonic airfoil buffet", AIAA SCITECH 2022 Forum, 2022-0461, (2022)
+- **Y. Iwatani**, H. Asada, and S. Kawai, "POD, DMD, and resolvent analysis of transonic airfoil buffet", AIAA SCITECH 2022 Forum, 2022-0461, (2022)
 
 ## Conference talks
 
