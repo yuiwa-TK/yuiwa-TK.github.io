@@ -4,39 +4,44 @@
     <title>Posts on Yuta Iwatani</title>
     <link>https://yuiwa-TK.github.io/posts/</link>
     <description>Recent content in Posts on Yuta Iwatani</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 23:41:19 +0900</lastBuildDate><atom:link href="https://yuiwa-TK.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Apr 2023 23:41:19 +0900</lastBuildDate>
+    <atom:link href="https://yuiwa-TK.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a webpage with Hugo &amp; Publishing it with Github Pages. </title>
       <link>https://yuiwa-TK.github.io/posts/log-create-mypage/</link>
       <pubDate>Wed, 05 Apr 2023 23:41:19 +0900</pubDate>
-      
       <guid>https://yuiwa-TK.github.io/posts/log-create-mypage/</guid>
-      <description>From downloading Hugo to deploying to github pages. Install hugo using homebrew.
-brew install hugo Download hugo theme &amp;ldquo;PaperMod&amp;rdquo;.
-hugo new site (myreponame).github.io cd (myreponame).github.io git init. # init git repo. Create config.yml
-PaperMod recommends using yml rather than toml. Add this line to config.yml theme: &amp;#34;PaperMod&amp;#34; Create workflow file .github/workflows/gh-pages.yml (Ref)
-Push local repo to remote repo at github
-git remote add origin https://github.com/(MyGitHubAccount)/(RepoName).git git branch -M main git push -u origin main The homepage will be buit &amp;amp; deployed with GitHub Actions.</description>
+      <description>create my page!</description>
     </item>
-    
     <item>
       <title>Study Notes</title>
       <link>https://yuiwa-TK.github.io/studynotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yuiwa-TK.github.io/studynotes/</guid>
-      <description>In preparation. 😪</description>
+      <description>&lt;p&gt;In preparation. 😪&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Yuta Iwatani&#39;s C.V.</title>
       <link>https://yuiwa-TK.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://yuiwa-TK.github.io/cv/</guid>
-      <description>Yuta Iwatani Master of Engineering, 2023 JSPS Research Fellowship for Young Scientists, DC1, 2023~ Education M.S. (Eng.) Tohoku University, Japan 2023 (supervisor: Professor Soshi Kawai) B.S. (Eng.) Tohoku University, Japan 2021 (supervisor: Professor Soshi Kawai) Awards 2021 第35回数値流体力学シンポジウム 若手優秀講演表彰 [link]</description>
+      <description>&lt;h2 id=&#34;yuta-iwatani&#34;&gt;Yuta Iwatani&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Master of Engineering, 2023&lt;/li&gt;
+&lt;li&gt;JSPS Research Fellowship for Young Scientists, DC1,  2023~&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;M.S. (Eng.) Tohoku University, Japan 2023 (supervisor: &lt;a href=&#34;https://www.klab.mech.tohoku.ac.jp/faculty/index.html&#34;&gt;Professor Soshi Kawai&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;B.S. (Eng.) Tohoku University, Japan 2021 (supervisor: &lt;a href=&#34;https://www.klab.mech.tohoku.ac.jp/faculty/index.html&#34;&gt;Professor Soshi Kawai&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;p&gt;2021 第35回数値流体力学シンポジウム 若手優秀講演表彰 &lt;a href=&#34;https://www2.nagare.or.jp/cfd/cfd35/award.html&#34;&gt;[link]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;</description>
     </item>
-    
   </channel>
 </rss>
