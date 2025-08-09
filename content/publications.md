@@ -21,11 +21,13 @@ draft: false
 - **Y. Iwatani**, H. Asada, and S. Kawai, "POD, DMD, and resolvent analysis of transonic airfoil buffet", AIAA SCITECH 2022 Forum, 2022-0461, (2022)
 
 ## Conference talks
+### 2025
+- **Y. Iwatani** and S. Kawai, "An attempt toward coloured semi-data-driven resolvent analysis using spectra of nonlinear forcing terms *(in Japanese)*", [JSFM Annual Meeting](https://www2.nagare.or.jp/nenkai2025/), Osaka, Japan, Sep, 2025
 
 ### 2024
 - **Y. Iwatani** and S. Kawai, "Nonlinear flow dynamics and skin friction in heated and cooled transitional boundary layers"
 ", [38th CFD symposium](https://www2.nagare.or.jp/cfd/cfd38/), Tokyo, Japan, Dec, 2024
-- C. ETO, S. Kawai, **Y. Iwatani** and S. Kawai, "Sensor-based wall modeled LES for predicting boundary layer transitionwith wall heating and cooling",
+- C. Eto, S. Kawai, **Y. Iwatani** and S. Kawai, "Sensor-based wall modeled LES for predicting boundary layer transitionwith wall heating and cooling",
 [38th CFD symposium](https://www2.nagare.or.jp/cfd/cfd38/), Tokyo, Japan, Dec, 2024
 - **Y. Iwatani** and S. Kawai, "Bispectral analysis of nonlienar dynamics and its connection to skin friction in heated/cooled transonic boundary layer transition", [76th Annual Meeting of the Division of Fluid Dynamics](https://dfd-meeting.aps.org), Salt Lake City, UT, USA, Nov, 2024
 - **Y. Iwatani**, H. Asada, and S. Kawai, "Laminar-to-turbulent transition of M=0.8 boundary layer over a heated/cooled flat plate", [Thirteenth International Symposium on Turbulence and Shear Flow Phenomena (TSFP13)](https://www.tsfp13.org/index.html), Montréal, Canada, June 25-28, 2024
