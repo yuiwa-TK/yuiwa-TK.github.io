@@ -12,7 +12,7 @@ draft: false
 - K. Fukami, **Y. Iwatani**, S. Maejima, H. Asada, and S. Kawai, "Compact representation of transonic airfoil buffet flows with observable-augmented machine learning," in review, (2025).
 
 ### 2025
-- **Y. Iwatani**, H. Asada, and S. Kawai, ["Direct numerical simulation of subharmonic transition in pseudo-adiabatic, heated, and cooled boundary layers"](https://doi.org/10.1016/j.ijheatfluidflow.2025.109896), International Journal of Heat and Fluid Flow, 2025, Volume 116, December 2025, 109896.
+- **Y. Iwatani**, H. Asada, and S. Kawai, ["Direct numerical simulation of subharmonic transition in pseudo-adiabatic, heated and cooled boundary layers"](https://doi.org/10.1016/j.ijheatfluidflow.2025.109896), International Journal of Heat and Fluid Flow, 2025, Volume 116, December 2025, 109896.
 
 ### 2023
 - **Y. Iwatani**, H. Asada, C.-A. Yeh, K. Taira, and S. Kawai, ["Identifying the self-sustaining mechanisms of transonic airfoil buffet with resolvent analysis,"](https://arc.aiaa.org/doi/10.2514/1.J062294) AIAA Journal, 61 (6), 2400-2411, (2023).

@@ -1,0 +1,27 @@
+{{ define "main" }}
+<h1>News</h1>
+<table style="width:100%; border-collapse: collapse;">
+  {{ range .Pages.ByDate.Reverse }}
+  <tr style="border-bottom: 1px solid #ccc;">
+    <td width="12%" valign="center">
+      {{ .Date.Format "2006.01.02" }}<br>
+      <small style="color:rgb(40, 5, 241);">{{ if lt (now.Sub .Date).Hours 168 }}NEW!{{ end }}</small>
+    </td>
+    <td width="2%" valign="center">
+    </td>
+    <td width="18%" valign="center">
+        <a href="{{ .Permalink }}">
+      {{ with .Params.image }}
+        <img src="{{ . }}" style="object-fit:cover;" oncontextmenu="return false;">
+      </a></a>
+      {{ end }}
+    </td>
+    <td width="2%" valign="center">
+    </td>
+    <td width="66%" valign="center">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </td>
+  </tr>
+  {{ end }}
+</table>
+{{ end }}
