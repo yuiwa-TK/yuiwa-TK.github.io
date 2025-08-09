@@ -10,6 +10,7 @@ cover:
 #   alt: "<alt text>"
 #   caption: "<text>"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
+summary: create my page!
 ---
 
 ## From downloading Hugo to deploying to github pages.
