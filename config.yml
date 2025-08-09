@@ -60,12 +60,12 @@ languages:
 params:
     homeInfoParams:
         Title: Yuta Iwatani
-        Content: I am a second-year PhD student affiliated with the [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index_jpn.html) at Tohoku University in Japan. 
-                 I am awarded by the [JSPS (Japan Society for the Promotion of Science) Research Fellowship for Young Scientists (DC1)](https://www.jsps.go.jp/english/e-pd/). 
-                  My current research interest is exploring the physics of compressible flow dynamics using high-fidelity numerical simulations and modal analysis. 
-                  This work aims to provide insights and tools for aircraft design and effective flow control methods in engineering.
-                 {{< figure align=center src="./Re300.png" >}} 
-                 Contact **yuta.iwatani(at)dc.tohoku.ac.jp** 
+        Content: I am a third-year Ph.D. student [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/).
+        My current research numerically investigates how wall temperature affects boundary layer transition in the transonic regime, which is crucial for improving the efficiency and safety of high-speed aircraft. 
+        Beyond this, I am also developing advanced analysis methods, specifically based on resolvent analysis, to better understand and control intricate flow dynamics.
+        Currently, I am awarded by the [JSPS (Japan Society for the Promotion of Science) Research Fellowship for Young Scientists (DC1)](https://www.jsps.go.jp/english/e-pd/). 
+        {{< figure align=center src="./Re300.png" >}} 
+        Feel free to contact me: **yuta.iwatani(at)dc.tohoku.ac.jp** 
     defaultTheme: light #dark / auto
 
     socialIcons:
