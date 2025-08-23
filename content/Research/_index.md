@@ -7,7 +7,7 @@ draft: false
 
 ## Ongoing projects 
 ---
-### Laminar-turbulent transition of a compressible boundary layer
+### Laminar-turbulent transition of heated and cooled compressible boundary layers
 This study aims in elucidating the wall heating/cooling effects on the laminar-turbulent transition of a compressible boundary layer over a zero-pressure-gradient flat plate using direct numerical simulations. 
 
 {{< figure align=center src="./transition_H11.png" >}}
