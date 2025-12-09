@@ -12,7 +12,7 @@ draft: false
 - S. Kawai, **Y. Iwatani**, C. Eto, and S. Kawai, "Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled LES", in review, (2025).
 
 ### 2025
-- K. Fukami, **Y. Iwatani**, S. Maejima, H. Asada, and S. Kawai, "Compact representation of transonic airfoil buffet flows with observable-augmented machine learning," Journal of Fluid Mechanics (accepted), (2025).
+- K. Fukami, **Y. Iwatani**, S. Maejima, H. Asada, and S. Kawai, ["Compact representation of transonic airfoil buffet flows with observable-augmented machine learning"](https://doi.org/10.1017/jfm.2025.10741), Journal of Fluid Mechanics, vol. 1021, p. A39, 2025. doi:10.1017/jfm.2025.10741
 
 - **Y. Iwatani**, H. Asada, and S. Kawai, ["Direct numerical simulation of subharmonic transition in pseudo-adiabatic, heated and cooled boundary layers"](https://doi.org/10.1016/j.ijheatfluidflow.2025.109896), International Journal of Heat and Fluid Flow, 2025, Volume 116, December 2025, 109896.
 
@@ -24,6 +24,10 @@ draft: false
 
 ## Conference talks
 ### 2025
+- **Y. Iwatani** and S. Kawai, "A domino effect in delayed subharmonic transition in wall-cooled boundary layer transition", 78th Annual Meeting of the Division of Fluid Dynamics, Huston, TX, USA, Nov, 2025
+
+- Shigetaka Kawai, **Y. Iwatani**, C. Eto, and Soshi Kawai, "Robust transition sensor for wall-modeled large-eddy simulation detecting turbulent breakdown in transitional boundary layers", 78th Annual Meeting of the Division of Fluid Dynamics, Huston, TX, USA, Nov, 2025
+
 - **Y. Iwatani** and S. Kawai, "An attempt toward coloured semi-data-driven resolvent analysis using spectra of nonlinear forcing terms *(in Japanese)*", [JSFM Annual Meeting](https://www2.nagare.or.jp/nenkai2025/), Osaka, Japan, Sep, 2025
 
 ### 2024
@@ -31,7 +35,7 @@ draft: false
 ", [38th CFD symposium](https://www2.nagare.or.jp/cfd/cfd38/), Tokyo, Japan, Dec, 2024
 - C. Eto, S. Kawai, **Y. Iwatani** and S. Kawai, "Sensor-based wall modeled LES for predicting boundary layer transitionwith wall heating and cooling",
 [38th CFD symposium](https://www2.nagare.or.jp/cfd/cfd38/), Tokyo, Japan, Dec, 2024
-- **Y. Iwatani** and S. Kawai, "Bispectral analysis of nonlienar dynamics and its connection to skin friction in heated/cooled transonic boundary layer transition", [76th Annual Meeting of the Division of Fluid Dynamics](https://dfd-meeting.aps.org), Salt Lake City, UT, USA, Nov, 2024
+- **Y. Iwatani** and S. Kawai, "Bispectral analysis of nonlienar dynamics and its connection to skin friction in heated/cooled transonic boundary layer transition", [77th Annual Meeting of the Division of Fluid Dynamics](https://dfd-meeting.aps.org), Salt Lake City, UT, USA, Nov, 2024
 - **Y. Iwatani**, H. Asada, and S. Kawai, "Laminar-to-turbulent transition of M=0.8 boundary layer over a heated/cooled flat plate", [Thirteenth International Symposium on Turbulence and Shear Flow Phenomena (TSFP13)](https://www.tsfp13.org/index.html), Montréal, Canada, June 25-28, 2024
 - T. Miyake, **Y. Iwatani**, H. Asada, S. Kawai, "The effect of Reynolds stress terms in resolvent analysis of Karman vortex shedding phenomena around circular cylinder *(in Japanese)*", [59th JSME Tohoku Meeting](https://www.jsme-tohoku.net/thk59/), Sendai, Japan, March 15, 2024
 
@@ -46,4 +50,4 @@ draft: false
 
 ### 2021
 - **Y. Iwatani**, H. Asada, and S. Kawai, "DMD and resolvent analysis of transonic airfoil buffet", 35th CFD Symposium, online (Japan), Dec, 2021
-- **Y. Iwatani**, H. Asada, and S. Kawai, "Resolvent anlaysis of transonic airfoil buffet", [53th Fluid Dynamics Conference of JSASS and 41st the Aerospace Numerical Simulation Symposium of JAXA](https://branch.jsass.or.jp/aerocom/ryu/ryu53/), online (Japan), Jun, 2021
+- **Y. Iwatani**, H. Asada, C.-A. Yeh, K. Taira, and S. Kawai, "Resolvent anlaysis of transonic airfoil buffet", [53th Fluid Dynamics Conference of JSASS and 41st the Aerospace Numerical Simulation Symposium of JAXA](https://branch.jsass.or.jp/aerocom/ryu/ryu53/), online (Japan), Jun, 2021
