@@ -9,7 +9,10 @@ draft: false
 ## Publications
 
 ### In Review
-- S. Kawai, **Y. Iwatani**, C. Eto, and S. Kawai, "Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled LES", in review, (2025).
+
+### 2026
+- Kawai, S., Iwatani, Y., Eto, C., and Kawai, S., “Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation,” AIAA Journal, 2026, pp. 1–9. https://doi.org/10.2514/1.j066244 (co-first)
+
 
 ### 2025
 - K. Fukami, **Y. Iwatani**, S. Maejima, H. Asada, and S. Kawai, ["Compact representation of transonic airfoil buffet flows with observable-augmented machine learning"](https://doi.org/10.1017/jfm.2025.10741), Journal of Fluid Mechanics, vol. 1021, p. A39, 2025. doi:10.1017/jfm.2025.10741
