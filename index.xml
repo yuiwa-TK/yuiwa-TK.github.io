@@ -6,8 +6,31 @@
     <description>Recent content on Yuta Iwatani</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yuiwa-TK.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>joined Kawai Lab. as a posdoc.</title>
+      <link>https://yuiwa-TK.github.io/news/20260401/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuiwa-TK.github.io/news/20260401/</guid>
+      <description>&lt;p&gt;I completed my doctoral coarse and joined &lt;a href=&#34;https://www.klab.mech.tohoku.ac.jp/index.html&#34;&gt;Kawai Lab.&lt;/a&gt; as a posdoc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our new paper &#39;Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation&#39; has appeared in AIAA Journal</title>
+      <link>https://yuiwa-TK.github.io/news/20260222/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://yuiwa-TK.github.io/news/20260222/</guid>
+      <description>&lt;p&gt;Our new paper  &lt;a href=&#34;https://doi.org/10.2514/1.J066244&#34;&gt;&amp;ldquo;Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation&amp;rdquo;&lt;/a&gt; which I contributed to as a co-first author has appeared in AIAA Journal!
+We proposed a sensor that detects turbulent breakdown associated with the rapid increase in skin friction to activate the wall model.
+The proposed sensor-based wall-model calculation achieves high fidelity simulations of various scenarios of boundary layer transitions subject to wall heating/cooling with significantly reduced cost compared to the DNS!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our new paper &#39;Direct numerical simulation of subharmonic transition in pseudo-adiabatic, heated and cooled boundary layers&#39; has appeared in International Journal of Heat and Fluid Flows</title>
+      <link>https://yuiwa-TK.github.io/news/20251023/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuiwa-TK.github.io/news/20251023/</guid>
+      <description>&lt;p&gt;A new Open Access paper  &lt;a href=&#34;https://doi.org/10.1017/jfm.2025.10741&#34;&gt;&amp;ldquo;Compact representation of transonic airfoil buffet flows with observable-augmented machine learning&amp;rdquo;&lt;/a&gt; led by Associate Professor K. Fukami (Tohoku Univ., Japan) has appeared in Journal of Fluid Mechanics!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Our new paper &#39;Direct numerical simulation of subharmonic transition in pseudo-adiabatic, heated and cooled boundary layers&#39; has appeared in International Journal of Heat and Fluid Flows</title>
       <link>https://yuiwa-TK.github.io/news/20250707/</link>
@@ -32,7 +55,7 @@ The [DNS database] presented in this paper will be available soon! (will be uplo
 &lt;h3 id=&#34;in-review&#34;&gt;In Review&lt;/h3&gt;
 &lt;h3 id=&#34;2026&#34;&gt;2026&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Kawai, S., Iwatani, Y., Eto, C., and Kawai, S., “Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation,” AIAA Journal, 2026, pp. 1–9. &lt;a href=&#34;https://doi.org/10.2514/1.j066244&#34;&gt;https://doi.org/10.2514/1.j066244&lt;/a&gt; (co-first)&lt;/li&gt;
+&lt;li&gt;Kawai, S., Iwatani, Y., Eto, C., and Kawai, S., &lt;a href=&#34;https://doi.org/10.2514/1.j066244&#34;&gt;“Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation,”&lt;/a&gt; AIAA Journal, 2026, pp. 1–9. &lt;a href=&#34;https://doi.org/10.2514/1.j066244&#34;&gt;https://doi.org/10.2514/1.j066244&lt;/a&gt; (co-first)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
 &lt;ul&gt;
