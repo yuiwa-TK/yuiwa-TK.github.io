@@ -11,7 +11,7 @@ draft: false
 ### In Review
 
 ### 2026
-- Kawai, S., Iwatani, Y., Eto, C., and Kawai, S., “Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation,” AIAA Journal, 2026, pp. 1–9. https://doi.org/10.2514/1.j066244 (co-first)
+- Kawai, S., Iwatani, Y., Eto, C., and Kawai, S., [“Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation,”](https://doi.org/10.2514/1.j066244) AIAA Journal, 2026, pp. 1–9. https://doi.org/10.2514/1.j066244 (co-first)
 
 
 ### 2025
