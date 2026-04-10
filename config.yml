@@ -65,10 +65,7 @@ params:
     mainSections: [] # ここを空にしておくと記事一覧がホームに表示されない
     homeInfoParams:
         Title: Yuta Iwatani
-        Content: I am a third-year Ph.D. student [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/), who is fascinated by the world of Fluid Dynamics and its underlying Mathematics.
-                My current research numerically investigates how wall temperature affects boundary layer transition in the transonic regime, which is crucial phenomena for transportation and energy industry.    
-                Beyond this, I am also developing advanced analysis methods, specifically based on resolvent analysis, to better understand and control intricate flow dynamics. 
-                Currently, I am awarded by the [JSPS (Japan Society for the Promotion of Science) Research Fellowship for Young Scientists (DC1)](https://www.jsps.go.jp/english/e-pd/).      
+        Content: I am a postdoc of [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/), who is fascinated by the world of Fluid Dynamics and its underlying Mathematics.
                 {{< figure align=center src="./Re300.png" >}}  
     defaultTheme: light #dark / auto
 
