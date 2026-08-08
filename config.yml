@@ -71,7 +71,7 @@ params:
 
     socialIcons:
         - name: email
-          url: mailto:yuta.iwatani+HP@dc.tohoku.ac.jp
+          url: mailto:yuta.iwatani.c6+HP@tohoku.ac.jp
         - name: github
           url: "https://github.com/yuiwa-TK"
         - name: googlescholar
