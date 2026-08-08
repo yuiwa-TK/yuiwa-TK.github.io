@@ -65,7 +65,7 @@ params:
     mainSections: [] # ここを空にしておくと記事一覧がホームに表示されない
     homeInfoParams:
         Title: Yuta Iwatani
-        Content: I am a postdoc of [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/), who is fascinated by the world of Fluid Dynamics and its underlying Mathematics.
+        Content: I am a postdoc of [Aerodynamic Design Research Group](https://www.klab.mech.tohoku.ac.jp/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/).  My central motivation of research is to explain a wide range of flow phenomena from both perspectives of physics (fluid mechanics, thermodynamics) and mathematics (applied math, dynamical systems) through numerical simulations and to apply the acquired knowledge to design, modeling, and control.
                 {{< figure align=center src="./Re300.png" >}}  
     defaultTheme: light #dark / auto
 
