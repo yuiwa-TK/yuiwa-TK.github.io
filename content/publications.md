@@ -9,6 +9,7 @@ draft: false
 ## Publications
 
 ### In Review
+- Iwatani, Y., Taira, K., and Kawai, S., ["Forcing-informed resolvent analysis: Identification of input-output relations in self-sustained flows,"](https://arxiv.org/abs/2606.19731) in review, 2026, (2026) [arXiv](https://arxiv.org/abs/2606.19731)
 
 ### 2026
 - Kawai, S., Iwatani, Y., Eto, C., and Kawai, S., [“Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation,”](https://doi.org/10.2514/1.j066244) AIAA Journal, 2026, pp. 1–9. https://doi.org/10.2514/1.j066244 (co-first)

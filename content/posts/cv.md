@@ -6,7 +6,7 @@ draft: false
 ---
 
 ## Yuta Iwatani
-- Doctor of Engineering, 2026
+- Ph.D. (Engineering), 2026
 - Master of Engineering, 2023
 - JSPS Research Fellowship for Young Scientists, DC1,  2023/04-2026/03
 ---
