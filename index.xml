@@ -53,6 +53,9 @@ The [DNS database] presented in this paper will be available soon! (will be uplo
       <guid>https://yuiwa-TK.github.io/publications/</guid>
       <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;h3 id=&#34;in-review&#34;&gt;In Review&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Iwatani, Y., Taira, K., and Kawai, S., &lt;a href=&#34;https://arxiv.org/abs/2606.19731&#34;&gt;&amp;ldquo;Forcing-informed resolvent analysis: Identification of input-output relations in self-sustained flows,&amp;rdquo;&lt;/a&gt; in review, 2026, (2026) &lt;a href=&#34;https://arxiv.org/abs/2606.19731&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;2026&#34;&gt;2026&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Kawai, S., Iwatani, Y., Eto, C., and Kawai, S., &lt;a href=&#34;https://doi.org/10.2514/1.j066244&#34;&gt;“Detecting Turbulent Breakdown for Predicting Transitional Boundary Layers in Wall-Modeled Large-Eddy Simulation,”&lt;/a&gt; AIAA Journal, 2026, pp. 1–9. &lt;a href=&#34;https://doi.org/10.2514/1.j066244&#34;&gt;https://doi.org/10.2514/1.j066244&lt;/a&gt; (co-first)&lt;/li&gt;
@@ -60,10 +63,7 @@ The [DNS database] presented in this paper will be available soon! (will be uplo
 &lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;K. Fukami, &lt;strong&gt;Y. Iwatani&lt;/strong&gt;, S. Maejima, H. Asada, and S. Kawai, &lt;a href=&#34;https://doi.org/10.1017/jfm.2025.10741&#34;&gt;&amp;ldquo;Compact representation of transonic airfoil buffet flows with observable-augmented machine learning&amp;rdquo;&lt;/a&gt;, Journal of Fluid Mechanics, vol. 1021, p. A39, 2025. doi:10.1017/jfm.2025.10741&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Y. Iwatani&lt;/strong&gt;, H. Asada, and S. Kawai, &lt;a href=&#34;https://doi.org/10.1016/j.ijheatfluidflow.2025.109896&#34;&gt;&amp;ldquo;Direct numerical simulation of subharmonic transition in pseudo-adiabatic, heated and cooled boundary layers&amp;rdquo;&lt;/a&gt;, International Journal of Heat and Fluid Flow, 2025, Volume 116, December 2025, 109896.&lt;/p&gt;</description>
+&lt;p&gt;K. Fukami, &lt;strong&gt;Y. Iwatani&lt;/strong&gt;, S. Maejima, H. Asada, and S. Kawai, &lt;a href=&#34;https://doi.org/10.1017/jfm.2025.10741&#34;&gt;&amp;ldquo;Compact representation of transonic airfoil buffet flows with observable-augmented machine learning&amp;rdquo;&lt;/a&gt;, Journal of Fluid Mechanics, vol. 1021, p. A39, 2025. doi:10.1017/jfm.2025.10741&lt;/p&gt;</description>
     </item>
     <item>
       <title>Study Notes</title>
@@ -79,7 +79,7 @@ The [DNS database] presented in this paper will be available soon! (will be uplo
       <guid>https://yuiwa-TK.github.io/cv/</guid>
       <description>&lt;h2 id=&#34;yuta-iwatani&#34;&gt;Yuta Iwatani&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Doctor of Engineering, 2026&lt;/li&gt;
+&lt;li&gt;Ph.D. (Engineering), 2026&lt;/li&gt;
 &lt;li&gt;Master of Engineering, 2023&lt;/li&gt;
 &lt;li&gt;JSPS Research Fellowship for Young Scientists, DC1,  2023/04-2026/03&lt;/li&gt;
 &lt;/ul&gt;
